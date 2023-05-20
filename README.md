@@ -1,6 +1,6 @@
 Exercises
 
-This project consists of a series of Jupyter Notebooks that involve data analysis and visualization. It is suitable for all levels.
+This files consists of a series of Jupyter Notebooks that involve data analysis and visualization. It is suitable for all levels.
 
 
 File List
