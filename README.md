@@ -36,10 +36,6 @@ This files consists of a series of Jupyter Notebooks that involve data analysis 
 
 This repository contains a collection of beginner-level machine learning projects. Each project is implemented in a Jupyter Notebook and focuses on different aspects of linear regression and polynomial regression.
 
-Machine Learning Projects
-
-This repository contains a collection of beginner-level machine learning projects. Each project is implemented in a Jupyter Notebook and focuses on different aspects of linear regression and polynomial regression.
-
 ## Projects
 
 - <kbd>Beginner Level Machine Learning Project.ipynb</kbd>: Introduction to machine learning concepts and linear regression basics.
