@@ -1,4 +1,4 @@
-##Pyhton File
+## Pyhton File
 
 This files consists of a series of Jupyter Notebooks that involve data analysis and visualization. It is suitable for all levels.
 
@@ -29,11 +29,11 @@ This files consists of a series of Jupyter Notebooks that involve data analysis 
 - `Sudoku Game.ipynb`: Sudoku game application.
 - `To-Do List.ipynb`: To-do list application.
 
-##Machine Learning File
+## Machine Learning File
 
 This repository contains a collection of beginner-level machine learning projects. Each project is implemented in a Jupyter Notebook and focuses on different aspects of linear regression and polynomial regression.
 
-#Projects
+# Projects
 
 Beginner Level Machine Learning Project.ipynb: This project serves as an introduction to machine learning concepts and covers the basics of linear regression. It includes step-by-step explanations and code examples.
 
@@ -48,15 +48,15 @@ Proje v2.ipynb: This project is an advanced version of the beginner-level projec
 Reklam Geliris Analizi Projesi (Machine Learning).ipynb: This project focuses on analyzing advertising revenue using machine learning techniques. It covers data exploration, feature engineering, and model training and evaluation.
 
 
-#Contributing
+# Contributing
 
 If you'd like to contribute to these projects or have any suggestions, feel free to open an issue or submit a pull request. Contributions are always welcome!
 
-#License
+# License
 
 This repository is licensed under the MIT License. You are free to use, modify, and distribute the code in this repository for personal or commercial purposes.
 
-#Acknowledgments
+# Acknowledgments
 
 These projects were created for educational purposes and are inspired by various online tutorials and resources.
 Thanks to the open-source community for providing useful libraries and frameworks for machine learning.
