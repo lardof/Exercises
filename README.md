@@ -64,7 +64,6 @@ This repository is licensed under the MIT License. You are free to use, modify, 
 
 These projects were created for educational purposes and are inspired by various online tutorials and resources.
 Thanks to the open-source community for providing useful libraries and frameworks for machine learning.
-Special thanks to OpenAI for developing the GPT-3.5 model that assisted in generating this README file.
 We hope you find these machine learning projects useful and educational. Happy coding!
 
 Note: Please note that the content in these projects is for learning purposes only and may not be suitable for production-level applications.
